@@ -52,3 +52,4 @@ setInterval(() => {
     }
     n++;
 }, 1000 / fps);
+//# sourceMappingURL=index.js.map
